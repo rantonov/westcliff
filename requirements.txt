@@ -1,0 +1,2 @@
+# need to install the GraphViz app on the OS
+graphviz
